@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "68772018189",
+    "project_id": "ziaum-ff632",
+    "storage_bucket": "ziaum-ff632.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:68772018189:android:edaf8aa409b12bf5ee3d44",
+        "android_client_info": {
+          "package_name": "com.switchApp.switch_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdjgCCqGWabp9PSo8OkU2ouDrZUohSf-A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
